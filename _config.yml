@@ -1,0 +1,22 @@
+title: Manideep Kolla
+name: "Manideep's Blog"
+author: Manideep Kolla
+twitter_username: manideep2510
+baseurl: "/manideep"
+description: Document my learning notes and thoughts.
+profile_url: "http://manideep2510.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+plugins:
+  - jekyll-feed
+  - jekyll-archives
+exclude:
+  - Gemfile
+  - Gemfile.lock
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
