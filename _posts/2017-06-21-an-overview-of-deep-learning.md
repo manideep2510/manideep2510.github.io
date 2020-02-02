@@ -8,7 +8,7 @@ image: "data_size_vs_model_performance.png"
 thumbnail: '/assets/images/transformer.png'
 ---
 
-> Currently testing the Minima style blog for github pages. It seems good. Should try publishing it.
+> Currently testing the Minima style blog for github pages. It seems good. Should try publishing it. 
 
 
 
