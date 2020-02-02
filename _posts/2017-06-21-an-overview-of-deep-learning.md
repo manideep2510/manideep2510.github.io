@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "An Overview of Deep Learning for Curious People"
+title: "Coming Soon..."
 date: 2017-06-21 01:09:00
 tags: foundation tutorial
 image: "data_size_vs_model_performance.png"
