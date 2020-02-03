@@ -21,7 +21,7 @@ This blog was originally publish by [Aniket Mandle](https://medium.com/@aniketma
 {% include image.html url="/assets/images/hyperverge1.jpeg" description="Handprints of the team members at the time when they refused to sell the startup despite numerous offers form the silicon valley investors." style="width:680px;"%}
 
 
-Contents:
+Table of Contents:
 {: class="table-of-content"}
 * TOC
 {:toc}
