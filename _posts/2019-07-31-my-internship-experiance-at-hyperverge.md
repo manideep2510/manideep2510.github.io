@@ -26,6 +26,7 @@ Table of Contents:
 * TOC
 {:toc}
 
+
 ## Pre Intern: Preparation and Mindset
 
 My area of interest is Deep Learning for Computer Vision and I knew that there won’t be many companies (there were few though, good work from CCD) that will be visiting the campus for an AI/DL role.
