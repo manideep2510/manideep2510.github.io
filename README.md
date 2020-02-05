@@ -1,2 +1,0 @@
-# Manideep
-Manideep's Blog
