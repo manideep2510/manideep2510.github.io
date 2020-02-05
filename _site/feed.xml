@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-03T19:33:10+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manideep’s Blog</title><subtitle>Document my learning notes and thoughts.</subtitle><author><name>Manideep Kolla</name></author><entry><title type="html">My Internship Experiance at Hyperverge</title><link href="http://localhost:4000/2019/07/31/my-internship-experiance-at-hyperverge.html" rel="alternate" type="text/html" title="My Internship Experiance at Hyperverge" /><published>2019-07-31T06:39:00+05:30</published><updated>2019-07-31T06:39:00+05:30</updated><id>http://localhost:4000/2019/07/31/my-internship-experiance-at-hyperverge</id><content type="html" xml:base="http://localhost:4000/2019/07/31/my-internship-experiance-at-hyperverge.html">&lt;blockquote&gt;
+  &lt;p&gt;During summer 2019, I have interned at Hyperverge Inc. It was a delight working on something I am passonate about with the super smart people there. In this post, I will talk about my internship experience at Hyperverge and the path leading towards securing the internship.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This blog was originally publish by &lt;a href=&quot;https://medium.com/@aniketmandle11&quot;&gt;Aniket Mandle&lt;/a&gt; in his Internship Experiences blog serires on Medium. Link to the Medium blog: &lt;a href=&quot;https://medium.com/the-internship-experience-iit-guwahati/hyperverge-ai-manideep-kolla-7669802831e9&quot;&gt;HyperVerge AI — Manideep Kolla&lt;/a&gt;&lt;/p&gt;
+
+&lt;!---![Hyperverge Team hand prints](/assets/images/hyperverge1.jpeg){: style=&quot;width: 680px&quot;}
+*Handprints of the team members at the time when they refused to sell the startup despite numerous offers form the silicon valley investors.*---&gt;
+
+&lt;figure class=&quot;image&quot;&gt;
+    &lt;img src=&quot;/assets/images/hyperverge1.jpeg&quot; alt=&quot;Handprints of the team members at the time when they refused to sell the startup despite numerous offers form the silicon valley investors.&quot; style=&quot;width:680px;&quot; /&gt;
+    &lt;center&gt;&lt;figcaption&gt;Handprints of the team members at the time when they refused to sell the startup despite numerous offers form the silicon valley investors.&lt;/figcaption&gt;&lt;/center&gt;
+&lt;/figure&gt;
+
+&lt;p class=&quot;table-of-content&quot;&gt;Table of Contents:&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#pre-intern-preparation-and-mindset&quot; id=&quot;markdown-toc-pre-intern-preparation-and-mindset&quot;&gt;Pre Intern: Preparation and Mindset&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#getting-there-the-interview-process&quot; id=&quot;markdown-toc-getting-there-the-interview-process&quot;&gt;Getting there: the interview process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#workplace-and-project&quot; id=&quot;markdown-toc-workplace-and-project&quot;&gt;Workplace and Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#life-in-bengaluru&quot; id=&quot;markdown-toc-life-in-bengaluru&quot;&gt;Life in Bengaluru&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#advice-and-takeaways&quot; id=&quot;markdown-toc-advice-and-takeaways&quot;&gt;Advice and Takeaways&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pre-intern-preparation-and-mindset&quot;&gt;Pre Intern: Preparation and Mindset&lt;/h2&gt;
+
+&lt;p&gt;My area of interest is Deep Learning for Computer Vision and I knew that there won’t be many companies (there were few though, good work from CCD) that will be visiting the campus for an AI/DL role.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So I prepared myself before coming to campus that I won’t be wasting any time in on-campus internships. I did register for the on-campus internships and applied for 3–4 companies of which 2 were AI related roles and I got placed one in the end as well.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The two good things I had done, in retrospect were&lt;/p&gt;
+
+&lt;p&gt;Wait patiently and not stress myself about not getting an intern in the first week or the first month because I knew that if I make a bad decision because everyone else is getting an intern, I will regret it later. I could have applied to many companies on-campus like Citi, Fidelity, etc for a software developer or analyst role but I did not, I waited for the right one and the wait was totally worth it.&lt;/p&gt;
+
+&lt;p&gt;My plan was to apply to companies off-campus mainly through my personal contacts, LinkedIn connections and through companies online careers pages starting with large tech companies, then foreign startups and in the next semester to Indian startups.&lt;/p&gt;
+
+&lt;p&gt;So I started by applying to super large MNCs like Google, Facebook, Microsoft, etc at foreign locations even though I have negligible chance of getting into them because &lt;em&gt;almost all of these large Tech companies require a minimum qualification of an M.S or M.Tech in Computer Science or Electrical engineering or plenty of publications in top conferences&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;From these companies, I only got one positive response from Niantic a large game developer but I did not get through the programming test. After this, I started applying to foreign startups to know where I stand in the competition, quite surprisingly I got positive replies from multiple startups but I had applied to full-time positions rather than internship positions and they couldn’t offer me an internship position.&lt;/p&gt;
+
+&lt;p&gt;From the second week of November, I started applying to Indian startups. In my opinion, Indian AI startups are doing some awesome stuff and are solving many real problems in India and I wanted to work in one. By February I had internship offers from few startups but back in the middle of November, I applied to a startup named Hyperverge which came for on-campus internships and I was waiting for a reply from them as I know them very well and was following their progress from past few months. After the vacation, once I got back to the campus there were multiple interviews and finally, I got into Hyperverge.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On the whole, my long searching expedition was a great learning experience for me. In the initial weeks, I used to be disappointed that I wasn’t getting any positive replies but my confidence has built up a lot once I started getting replies from foreign startups for full-time positions. In these few months I have interacted with many people from different companies and made many connections in the process.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;getting-there-the-interview-process&quot;&gt;Getting there: the interview process&lt;/h2&gt;
+
+&lt;p&gt;Applying to large tech companies off-campus is almost same as on-campus internships. Even if you are applying for an AI role, the first thing in the line will be a programming test to test your skill in data structures &amp;amp; algorithms and programming in general.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The mistake I did was not to be well prepared with data structures and algorithms because I thought that they are irrelevant to what I wanted to do. But after taking the test from Niantic, I understood the importance of it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In startups, the process was a bit different. They mainly focus on whether you are good at DL/ML concepts and care a lot about any projects you have done in the field. There can be some test or assignment before the interview which would mostly(with few exceptions) comprise of some ML/DL concepts and maybe a little bit of programming.&lt;/p&gt;
+
+&lt;p&gt;For a DL interview, one place in which you have to be strong is the basics of machine learning and DL and the math behind them rather than the super-advanced stuff. It is also recommended to have a good touch with probability.&lt;/p&gt;
+
+&lt;p&gt;Having good and relevant projects always help in getting an interview but during the interviews what matters the most is how strong you are in the basics and how well you understand them. In the case of Hyperverge, the process was pretty straight forward. The first step was CV shortlisting and then there were two interviews, one interview on DL stuff and the other is a mix of logical reasoning and algorithms.&lt;/p&gt;
+
+&lt;h2 id=&quot;workplace-and-project&quot;&gt;Workplace and Project&lt;/h2&gt;
+
+&lt;figure class=&quot;image&quot;&gt;
+    &lt;img src=&quot;/assets/images/hv_team.png&quot; alt=&quot;The Team&quot; style=&quot;width:680px;&quot; /&gt;
+    &lt;center&gt;&lt;figcaption&gt;The Team&lt;/figcaption&gt;&lt;/center&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It was a lot of fun working at Hyperverge among a very young and pretty talented team of engineers. I was &lt;em&gt;part of the Documents team&lt;/em&gt; which deals with &lt;em&gt;all the DL stuff related to documents like Text detection, Text extraction, fraud detection, etc&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;My initial project was to build an algorithm to identify a certain kind of fraud in ID cards from a certain country and after that, we extended the algorithm to perform well on any kind of ID card out there. &lt;em&gt;In the process, I have also built an automated training pipeline which will be able to train DL algorithms on data which will be collected from users every day and update the algorithms in the deployment site in case of any improvement in the accuracy and send notifications to messenger whenever there’s an improvement.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I have picked up a lot of useful and productive coding practices and learned how to look at a problem and arrive at the solution (trust me it’s a lot different from what you do in your projects in B.Tech ) thanks to my mentors Vipul and Anisha. I really liked the work environment and how friendly &amp;amp; open everyone is irrespective of the hierarchy. I miss each and every one of them already.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apart from the project, the other thing I love about Hyperverge is their humble beginning and how clear the founders are about their goals and the direction in which they want to take the company. A quick background about Hyperverge, it is started by five IIT Madras graduates as a club called Computer Vision Group(now famously known as CVG) and later transformed into Hyperverge.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;font size=&quot;5&quot;&gt;Throughout the two months of the internship, I have learned so much from the founders which I will not ever forget. They are one of the best entrepreneurs I have spoken to.&lt;/font&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;life-in-bengaluru&quot;&gt;Life in Bengaluru&lt;/h2&gt;
+
+&lt;figure class=&quot;image&quot;&gt;
+    &lt;img src=&quot;/assets/images/banglore.jpg&quot; alt=&quot;MG Road, Bengaluru&quot; style=&quot;width:680px;&quot; /&gt;
+    &lt;center&gt;&lt;figcaption&gt;MG Road, Bengaluru&lt;/figcaption&gt;&lt;/center&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Banglore is a great city to live in but it is not my favorite place though. Bangalore is too busy all the time, too much traffic to handle, too many people all over and costly compared to some of the other major cities in India but it is definitely a very comfortable place to live in because there’s something for every kind of person to relax and enjoy, it has very nice weather and it has plenty of startups around providing different services which makes getting things done way easier.&lt;/p&gt;
+
+&lt;h2 id=&quot;advice-and-takeaways&quot;&gt;Advice and Takeaways&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;font size=&quot;5&quot;&gt;My main advice to juniors is not to compromise on what you want to do during your summer because for many if not for all, it sort of lays a platform to the career further.&lt;/font&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In those two months you will get to know whether you want to work in the field you are currently working or you may find something else which interests you, etc and this clears your mind before the final placements.&lt;/p&gt;
+
+&lt;p&gt;Particularly for AI roles, there is a lot of competition out there right now so you need to be prepared and well equipped. One of the main things you need to do is to build your profile and increase your competency in the field. You can read this &lt;a href=&quot;https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc&quot;&gt;blog&lt;/a&gt; by Aman Dalmia which will give a good idea about interviewing at AI companies and startups and building your profile in AI. And you can also read this &lt;a href=&quot;https://medium.com/the-internship-experience-iit-guwahati/anand-rathi-share-and-stock-brokers-ltd-shrey-jain-c201bd3bfc1b&quot;&gt;blog&lt;/a&gt; by Shrey Jain on how he secured an off-campus internship in finance, which is a reference on how to secure an off-campus intern in general.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;font size=&quot;5&quot;&gt;You can choose a high paying intern but if you don’t like what you are doing, it will make your life harder. So, if you are serious about what you want to do, I think it’s worth waiting for the right opportunity.&lt;/font&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You shouldn’t lose your cool or give up hope if that opportunity doesn’t come early. If you are hard-working and have good knowledge in the field, there is no reason to be worried.&lt;/p&gt;</content><author><name>Manideep Kolla</name></author><category term="experiences" /><category term="internship" /><summary type="html">During summer 2019, I have interned at Hyperverge Inc. It was a delight working on something I am passonate about with the super smart people there. In this post, I will talk about my internship experience at Hyperverge and the path leading towards securing the internship.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/hyperverge.png" /><media:content medium="image" url="http://localhost:4000/hyperverge.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
